@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Heyy! I am Siddhartha
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### I talk Tech and take photos.
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
